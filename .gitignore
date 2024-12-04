@@ -131,3 +131,6 @@ dist
 
 # Stupid Bun
 bun.lockb
+
+# Remove inputs
+input.txt
